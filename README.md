@@ -7,4 +7,5 @@
 
 欢迎关注微信公众号 **Knative**， 了解云原生，Serverless 更多知识。
 
-![](wechart.bmp)
+<img src=https://raw.githubusercontent.com/zhaojizhuang/zhaojizhuang/main/wechart.bmp width=600 />
+
