@@ -5,7 +5,7 @@
 - 👯 欢迎各位一起来交流进步.
 - 🤔 个人主页 https://chumper.cn
 
-欢迎关注微信公众号 **Knative**， 了解云原生，Serverless 更多知识。
+欢迎关注微信公众号 **云原生Serverless**， 了解云原生，Serverless 更多知识。
 
 <img src=https://raw.githubusercontent.com/zhaojizhuang/zhaojizhuang/main/wechart.png width=500 />
 
