@@ -3,7 +3,7 @@
 #### 个人介绍：
 
 - 🌱 当前主要专注于 kubernetes，serverless， Go， 云原生
-- 🔭 先后就职于华为 Cloud BU，火山引擎边缘计算团队 从事云原生领域的设计与开发工作.
+- 🔭 先后就职于华为 Cloud BU，火山引擎边缘云原生团队 从事云原生领域的设计与开发工作.
 - 📚 译作:[《Knative 最佳实践》](https://item.jd.com/13200963.html),[《Knative 快速入门与实践》](https://item.jd.com/13063745.html)
 - 🤔 个人主页 https://chumper.cn
 - 👯 欢迎各位一起来交流进步.
