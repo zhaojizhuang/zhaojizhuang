@@ -1,7 +1,9 @@
 ### Hi, 欢迎光临我的Github 👋
 
 ### 📚 新书上架，[《containerd 原理剖析与实战》69.9 限时内购 🔗](https://item.m.jd.com/product/14522216.html)
-<img src=https://github.com/zhaojizhuang/zhaojizhuang/assets/3124692/0588413e-9e74-4a9f-866a-355b4e78dbef width=500 />
+
+<img src=https://github.com/zhaojizhuang/zhaojizhuang/assets/3124692/dbd07420-946f-4734-b9c0-f09863ddc715 width=500 />
+
 
 #### 个人介绍：
 - 🌱 当前主要专注于 kubernetes，serverless， Go， 云原生
